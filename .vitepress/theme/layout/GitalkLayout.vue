@@ -41,7 +41,7 @@ const initGitalk = () => {
         // GitHub 账号 <==== 按你的实际情况修改 ====>
         owner: 'littlepaddy03',
         // 仓库名 <==== 按你的实际情况修改 ====>
-        repo: 'gitalk-comments',
+        repo: 'littlepaddy03.github.io',
         // 客户端 ID <==== 按你的实际情况修改 ====>
         clientID: 'Ov23liDec3kP2xk4GiCO',
         // 客户端密钥 <==== 按你的实际情况修改 ====>
