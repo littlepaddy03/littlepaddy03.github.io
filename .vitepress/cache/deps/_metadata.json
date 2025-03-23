@@ -1,32 +1,50 @@
 {
-  "hash": "0b8c7b1a",
-  "configHash": "7fb33243",
-  "lockfileHash": "5b85bb37",
-  "browserHash": "f7f33aec",
+  "hash": "f28a83fe",
+  "configHash": "a9212a02",
+  "lockfileHash": "81091842",
+  "browserHash": "3cb5126e",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "c384a70b",
+      "fileHash": "15975a55",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "3771f5e8",
+      "fileHash": "7d70be83",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "658ae2f6",
+      "fileHash": "a6c00755",
       "needsInterop": false
     },
-    "@theme/index": {
-      "src": "../../../node_modules/vitepress/dist/client/theme-default/index.js",
-      "file": "@theme_index.js",
-      "fileHash": "cecc3b16",
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "a4d45e61",
       "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "6b7f14b5",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "0b94c339",
+      "needsInterop": false
+    },
+    "gitalk": {
+      "src": "../../../node_modules/gitalk/dist/gitalk.js",
+      "file": "gitalk.js",
+      "fileHash": "2c77e138",
+      "needsInterop": true
     }
   },
   "chunks": {
@@ -35,6 +53,9 @@
     },
     "chunk-VJWGEPT5": {
       "file": "chunk-VJWGEPT5.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
     }
   }
 }

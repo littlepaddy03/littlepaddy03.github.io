@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.DPDPlp3K.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"csrepo/gof/index.md","filePath":"csrepo/gof/index.md","lastUpdated":null}'),a={name:"csrepo/gof/index.md"};function r(n,s,c,d,p,i){return o(),t("div")}const l=e(a,[["render",r]]);export{_ as __pageData,l as default};

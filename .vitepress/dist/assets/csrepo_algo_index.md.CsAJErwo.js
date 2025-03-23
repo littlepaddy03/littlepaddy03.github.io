@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DPDPlp3K.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"csrepo/algo/index.md","filePath":"csrepo/algo/index.md","lastUpdated":null}'),o={name:"csrepo/algo/index.md"};function r(n,s,c,d,p,i){return a(),t("div")}const m=e(o,[["render",r]]);export{_ as __pageData,m as default};
