@@ -45,11 +45,11 @@ const initGitalk = () => {
         // 客户端 ID <==== 按你的实际情况修改 ====>
         clientID: 'Ov23liDec3kP2xk4GiCO',
         // 客户端密钥 <==== 按你的实际情况修改 ====>
-        clientSecret: 'b5336eb0b13e2b09d26bc6f7fc84752c7c104db3',
+        clientSecret: 'f9e24af3e0222e4baa1fc36dbceb2f82e4f4e9bb',
         // Github 账号 <==== 按你的实际情况修改 ====>
         admin: ['littlepaddy03'],
         // 创建 Issue 时，为 Issue 增加的标签
-        labels: ['gitalk'],
+        labels: ['Gitalk'],
         // 如果 Issue 不存在，且登陆的是管理员账号，是否显示创建 Issue 按钮
         createIssueManually: true,
         // 创建 Issue 时，用于唯一标识这篇文章的标记
